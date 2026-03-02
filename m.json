@@ -4,15 +4,16 @@
   "spider": "./jar?id=index;md5;690cd77aeb20b09a8dd8e01dcbe660b6",
   "sites": [
     {
-      "key": "豆瓣1",
+      "key": "豆瓣2",
       "name": "Yan专属",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 1,
       "jar": "https://tv.nxog.top/m/jar?id=xx;md5;ff4f99fad585f4935fcaa06e3092e44a",
+      "ext": ""
     },
     {
-      "key": "豆瓣2",
+      "key": "豆瓣1",
       "name": "(* ￣3)(ε￣ *)",
       "type": 3,
       "api": "csp_Douban",
